@@ -64,7 +64,7 @@ article {
 </article>
 
 <article>
-	<h2>Symptoms>
+	<h2>Symptoms</h2>
 	<ul>A large head with a prominent forehead</ul>
 	<ul>Flattened bridge of the nose</ul>
 	<ul>Protruding jaw</ul>
