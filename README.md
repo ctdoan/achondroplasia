@@ -35,7 +35,7 @@ nav ul a {
 }
 
 article {
-    margin-left: 170px;
+    margin-left: 350px;
     border-left: 1px solid gray;
     padding: 1em;
     overflow: hidden;
@@ -51,6 +51,7 @@ article {
 </header>
   
 <nav>
+  <img src="http://genetics4medics.com/uploads/3/4/3/7/34378110/5935279_orig.png" style="width:300px;">
   <ul>
     <li><a href="#">physical deformity</a></li>
     <li><a href="#">short stature</a></li>
