@@ -18,7 +18,7 @@ header, footer {
 
 nav {
     float: left;
-    max-width: 160px;
+    max-width: 300px;
     margin: 0;
     padding: 2em;
 }
