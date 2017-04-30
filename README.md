@@ -52,11 +52,20 @@ article {
   
 <nav>
   <img src="http://genetics4medics.com/uploads/3/4/3/7/34378110/5935279_orig.png" style="width:300px;">
-  <ul>
-    <li><a href="#">physical deformity</a></li>
-    <li><a href="#">short stature</a></li>
-    <li><a href="#">enlarged head</a></li>
-  </ul>
+  <article>
+  	<p>
+    
+    
+    
+    
+    
+    
+    
+    
+    </p>
+  </article>
+  <img src="http://ahsmediacenter.pbworks.com/f/fgfr3.jpeg" style="width:300px;">
+
 </nav>
 
 <article>
