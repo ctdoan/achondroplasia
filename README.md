@@ -11,7 +11,7 @@ div.container {
 header, footer {
     padding: 5em;
     color: white;
-    background-color: rgb(204, 245, 255)
+    background-color: hsl(192, 100%, 90%)
     clear: left;
     text-align: center;
 }
