@@ -81,6 +81,13 @@ article {
 	<ul>Back pain</ul>
 	</article>
 
+<article>
+	<h2>Causes</h2>
+	<ul>The disease is due to the inheritance of an altered FGFR3 gene from one or both parents. The altered FGFR3 gene is responsible for making the protein that regulates bone growth. The protein that is directly affected limits the formation of bone from cartilage. The process of forming bone from cartilage is called ossification.</ul>
+	<ul>The different isoforms of the protein are found in various tissues of the body, and they interact with a variety of growth factors.</ul>
+	<ul>80% of achondroplasia cases are caused by new mutations, not hereditary causes (most infants with achondroplasia are born to parents without achondroplasia)</ul>
+</article>
+
 <footer>
 	<p>DONATE TO D.W.A.R.F. TODAY!</p>
 	<p>(Diminutive Warriors of Achondroplasia Recovery Foundation)</p>
