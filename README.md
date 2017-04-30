@@ -1,5 +1,5 @@
-# achondroplasia
-<!DOCTYPE html>
+# D.W.A.R.F
+
 <html>
 <head>
 <style>
@@ -59,9 +59,25 @@ article {
 </nav>
 
 <article>
-  <h1>London</h1>
-  <p>London is the capital city of England. It is the most populous city in the  United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
-  <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
+  <h1>Background Information</h1>
+  <p>Achondroplasia is an autosomal dominant genetic disease that results in short limbs due to a mutation in the FGFR3 gene of chromosome 4, which  can be inherited from (a) parent(s) or obtained spontaneously. If occurring spontaneously, the mutation will occur in one of the parents’ haploid gametes before the parents conceive, thus causing the child to inherit the disease. The mutation of the FGFR3 gene causes short limbs by preventing cartilage, a body tissue, from forming into bone while a baby is growing. The lack of ability to convert cartilage to bone results in a short stature, and prevents regular growth of bones.</p>
+</article>
+
+<article>
+	<h2>Symptoms>
+	<ul>A large head with a prominent forehead</ul>
+	<ul>Flattened bridge of the nose</ul>
+	<ul>Protruding jaw</ul>
+	<ul>Crowded and misaligned teeth</ul>
+	<ul>Curvature of the spine</ul>
+	<ul>Bowed legs</ul>
+	<ul>Flat, short, broad feet</ul>
+	<ul>Double-jointedness</ul>
+	<ul>Late development of motor skills (such as standing up or walking)</ul>
+	<ul>Breathing problems</ul>
+	<ul>Stiffness or arthritis</ul>
+	<ul>Leg numbness</ul>
+	<ul>Back pain</ul>
 </article>
 
 <footer>Copyright &copy; W3Schools.com</footer>
