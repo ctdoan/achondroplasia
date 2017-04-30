@@ -80,7 +80,10 @@ article {
 	<ul>Back pain</ul>
 	</article>
 
-<footer>Copyright &copy; W3Schools.com</footer>
+<footer>
+	<p>DONATE TO D.W.A.R.F. TODAY!</p>
+	<p>(Diminutive Warriors of Achondroplasia Recovery Foundation)</p>
+</footer>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
