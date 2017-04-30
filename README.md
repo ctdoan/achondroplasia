@@ -1,4 +1,4 @@
-# D.W.A.R.F
+# Diminutive Warriors of Achondroplasia Recovery Foundation
 
 <html>
 <head>
@@ -11,7 +11,7 @@ div.container {
 header, footer {
     padding: 5em;
     color: white;
-    background-color: steelblue;
+    background-color: rgb(204, 245, 255)
     clear: left;
     text-align: center;
 }
