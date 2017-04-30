@@ -78,7 +78,7 @@ article {
 	<ul>Stiffness or arthritis</ul>
 	<ul>Leg numbness</ul>
 	<ul>Back pain</ul>
-</article>
+	</article>
 
 <footer>Copyright &copy; W3Schools.com</footer>
 
